@@ -1,0 +1,7 @@
+body{
+    background-image: url(../public/images/main-background.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
