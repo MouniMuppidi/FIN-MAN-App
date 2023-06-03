@@ -1,6 +1,8 @@
 # loan-gamification-2
 
 Financial management game app is a project that aims to provide an engaging and interactive way for individuals to learn and practice financial management skills. The app is designed to simulate real-life financial situations and challenges, with the goal of improving users' financial literacy and decision-making abilities. The app also includes a variety of gamification techniques, such as rewards, achievements, and leaderboards, to enhance engagement and motivation. Users can compete with others and track their progress over time, which helps to encourage continued learning and improvement.This is a group project of two and in this we utilized the ReactJS framework as the foundation of our front-end development, allowing us to handle mathematical computations .ReactJS provides a component-based architecture that enables the team to create reusable UI elements that can be easily managed and updated throughout the project. Additionally, we have used MaterialUI as a UI library which provides a collection of pre-built, customizable components that can be used to quickly create a consistent and visually appealing user interface. Overall, the combination of ReactJS, HTML, CSS, MaterialUI, and JavaScript provides a powerful set of tools and technologies for developing a modern, dynamic front-end that can handle complex computations and deliver a polished user experience.
+
+
 Loan details of Player
 ![image](https://github.com/MouniMuppidi/FIN-MAN-App/assets/61201682/425e607e-7303-414e-b7f0-370e414d5f60)
 
